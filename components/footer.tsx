@@ -23,10 +23,10 @@ export function Footer() {
                 Terms
               </Link>
               <Link
-                href="#"
+                href="mailto:nownmin57@gmail.com"
                 className="text-sm text-muted-foreground hover:text-foreground transition-colors"
               >
-                Contact
+                Support: nownmin57@gmail.com
               </Link>
             </nav>
           </div>
